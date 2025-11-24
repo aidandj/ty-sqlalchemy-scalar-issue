@@ -1,0 +1,1 @@
+# ty-sqlalchemy-scalar-issue
